@@ -4,7 +4,13 @@ This project was bootstrapped with Create React App.
 
 # Available Scripts
 
-In the project directory, you can run:
+In the project directory, you have to run:
+
+```
+$ npm install
+```
+
+Installs all the necessary files for running in developement mode.
 
 ```
 $ npm start
