@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Kalam&display=swap");
+* {
+  font-family: "Courgette", cursive;
+}
+
+.shd {
+  box-shadow: -8px -8px 24px #ffffff, 12px 12px 24px rgba(142, 209, 252, 0.25);
+}
+.shd:hover {
+  box-shadow: -2px -2px 24px #808080, 1px 1px 8px #888888;
+}
+
+.shd-do {
+  box-shadow: -2px -2px 24px #808080, 1px 1px 8px #ffffff;
+}
+.shd-do:hover {
+  box-shadow: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
